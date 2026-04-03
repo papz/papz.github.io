@@ -1,9 +1,10 @@
 ---
-layout: post
 title: "Prepping My Mac Part One(Actually, I just wanted Sidecar)"
 date: 2019-11-19 14:46:23 +0700
-comments: true
 categories: [Blogging]
+tags: [macOS, Sidecar, Setup]
+math: false
+toc: false
 ---
 
 Coming back to development after some time traveling.[^travel] I was optimistic and re-energized to get my Mac back in order.  First thing on my list was the delightful update of macOS from Mojave to Catalina[^sarcastic].  On the feature aspect of macOS Catalina, focus was spent on refining their entertainment streaming options, a continued push for a more secure system, and a much appreciated device sync relocation.  To continue, the foundational Apps Notes and Remember have now matured and almost appear like options you'd pay for on the App store, but you're getting for free.  Additionally you now get a wellness App, Screen-Time.  I like my time away from phones so hadn't really noticed it on my phone, but seeing hours spent on the Mac may just nudge me in a healthier direction.  So of the new features, I was particularly interested in Sidecar which would turn your IPad into a second monitor.  Being away for quite a few months I was keen to get my system in order and apply this great free feature.  It took a bit more time than I would have liked, so I thought it would be worthwhile just writing about it.

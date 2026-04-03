@@ -1,9 +1,10 @@
 ---
-layout: post
 title: "DevScraps It's just a Name"
 date: 2019-11-19 14:46:23 +0700
-comments: true
 categories: [Blogging]
+tags: []
+math: false
+toc: false
 ---
 
 The original idea of the name of this blog was just so that I could move on and just write.  Yay, it's doing just that. 
