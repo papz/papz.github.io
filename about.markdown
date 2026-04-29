@@ -8,6 +8,6 @@ Hi there!
 
 Somehow you've managed to stumble upon my tiny blog, Welcome!
 
-I'm a long walker, exploratory eater, soon to be great father that is fascinated by creative pursuits and would rather be traveling.  My chosen field has me mostly in front of a screen, a mindful Ruby Developer, fullstack with a burgeoning interest in Clojure.
+I'm a long walker, exploratory eater and loved father and husband.  In my chosen field I get to build valuable software for people and business.
 
 If you are particularly interested and would like to contact me, please do!
