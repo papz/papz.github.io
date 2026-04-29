@@ -1,10 +1,9 @@
 ---
+layout: post
 title: "My Just Write a First Post Post"
 date: 2019-05-04 15:46:23 +0700
+comments: true
 categories: [Blogging]
-tags: []
-math: false
-toc: false
 ---
 
 Being a programmer and generally someone who spends a great
